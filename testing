@@ -210,7 +210,7 @@ function createToggle(option, parent)
 		Text = " " .. option.text,
 		TextSize = 17,
 		Font = Enum.Font.Gotham,
-		TextColor3 = Color3.fromRGB(255,65,65),
+		TextColor3 = Color3.fromRGB(255,255,255),
 		TextXAlignment = Enum.TextXAlignment.Left,
 		Parent = parent.content
 	})
